@@ -1,8 +1,8 @@
 # Fearless-women-safety-app
-##An Android App made for the women safety
+## An Android App made for the women safety
 
 
-####Features of the app-
+#### Features of the app-
 1. SOS/Emergency-
    Send a SMS reading- "I am In Danger" to selected 5 contacts and your GPS location to track you with just a click of a button.
 2. Complaint-
